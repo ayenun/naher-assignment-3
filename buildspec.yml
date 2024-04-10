@@ -2,9 +2,9 @@ version: 0.2
 
 env:
   variables:
-     AWS_DEFAULT_REGION: "ca-central-1"
+     AWS_DEFAULT_REGION: "US East (N. Virginia)"
      IMAGE_REPO_NAME: "Naher-app"
-     AWS_ACCOUNT_ID: "846116578401"
+     AWS_ACCOUNT_ID: "851725496132"
 
 phases:
   #install:
